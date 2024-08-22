@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "be.app.forgetmenot.composeApp-merged_res-45:/drawable_star.png.flat",
+        "source": "be.app.forgetmenot.composeApp-androidMain-46:/drawable/star.png"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-merged_res-45:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\portg\\.gradle\\daemon\\8.7\\be.app.forgetmenot.composeApp-androidMain-46:\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
