@@ -1,4 +1,0 @@
-be.app.forgetmenot.test.composeApp-androidTest-0 C:\Users\portg\Desktop\ForgetMeNot\ForgetMeNot\composeApp\build\generated\res\resValues\androidTest\debug
-be.app.forgetmenot.test.composeApp-mergeDebugAndroidTestResources-1 C:\Users\portg\Desktop\ForgetMeNot\ForgetMeNot\composeApp\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-be.app.forgetmenot.test.composeApp-mergeDebugAndroidTestResources-2 C:\Users\portg\Desktop\ForgetMeNot\ForgetMeNot\composeApp\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-be.app.forgetmenot.test.composeApp-merged_res-3 C:\Users\portg\Desktop\ForgetMeNot\ForgetMeNot\composeApp\build\intermediates\merged_res\debugAndroidTest
