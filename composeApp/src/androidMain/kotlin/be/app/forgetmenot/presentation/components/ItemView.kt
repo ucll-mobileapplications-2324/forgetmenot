@@ -23,7 +23,7 @@ import org.jetbrains.compose.resources.painterResource
 fun ItemView(
     item: Item,
     onSelect: (Item) -> Unit,
-    onEdit: (Item) -> Unit,
+    //onEdit: (Item) -> Unit,
     onDelete: (Item) -> Unit
 ) {
     Row(
@@ -38,12 +38,12 @@ fun ItemView(
             fontSize = MaterialTheme.typography.bodyMedium.fontSize
         )
         Row {
-            IconButton(onClick = { onEdit(item) }) {
+            /*IconButton(onClick = { onEdit(item) }) {
                 Icon(
                     painter = painterResource(Res.drawable.edit),
                     contentDescription = "Edit Item Icon"
                 )
-            }
+            }*/
             IconButton(onClick = { onDelete(item) }) {
                 Icon(
                     painter = painterResource(Res.drawable.delete),

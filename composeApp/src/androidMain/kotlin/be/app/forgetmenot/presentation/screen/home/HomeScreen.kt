@@ -35,16 +35,12 @@ import cafe.adriel.voyager.navigator.LocalNavigator
 import cafe.adriel.voyager.navigator.currentOrThrow
 import be.app.forgetmenot.domain.RequestState
 import be.app.forgetmenot.domain.ContextAction
-import be.app.forgetmenot.domain.ItemAction
 import be.app.forgetmenot.domain.Context
-import be.app.forgetmenot.domain.Item
 import be.app.forgetmenot.presentation.components.ErrorScreen
 import be.app.forgetmenot.presentation.components.LoadingScreen
 import be.app.forgetmenot.presentation.components.ContextView
-import be.app.forgetmenot.presentation.components.ItemView
 import be.app.forgetmenot.presentation.screen.context.ContextScreen
 //import be.app.forgetmenot.presentation.screen.item.ItemScreen
-import androidx.compose.foundation.lazy.items
 
 class HomeScreen : Screen {
     @OptIn(ExperimentalMaterial3Api::class)
@@ -171,54 +167,5 @@ fun DisplayContexts(
         )
     }
 
-    /*when (contexts) {
-        is RequestState.Loading -> LoadingScreen()
-        is RequestState.Error -> ErrorScreen(message = contexts.getErrorMessage())
-        is RequestState.Success -> {
-            LazyColumn(modifier = modifier) {
-                items(contexts.getSuccessData()) { context ->
-                    if (onSelect != null) {
-                        if (onAddItem != null) {
-                            if (onDelete != null) {
-                                ContextView(
-                                    context = context,
-                                    onSelect = onSelect,
-                                    onAddItem = onAddItem,
-                                    onDelete = onDelete
-                                )
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        else -> {}
-    }*/
-}
 
-/*@Composable
-fun DisplayItems(
-    modifier: Modifier = Modifier,
-    items: RequestState<List<Item>>,
-    onSelect: (Item) -> Unit,
-    onEdit: (Item) -> Unit,
-    onDelete: (Item) -> Unit
-) {
-    when (items) {
-        is RequestState.Loading -> LoadingScreen()
-        is RequestState.Error -> ErrorScreen(message = items.getErrorMessage())
-        is RequestState.Success -> {
-            LazyColumn(modifier = modifier) {
-                items(items.getSuccessData()) { item ->
-                    ItemView(
-                        item = item,
-                        onSelect = onSelect,
-                        onEdit = onEdit,
-                        onDelete = onDelete
-                    )
-                }
-            }
-        }
-        else -> {}
-    }
-}*/
+}

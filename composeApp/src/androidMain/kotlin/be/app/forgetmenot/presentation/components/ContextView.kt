@@ -9,7 +9,6 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.unit.dp
 import be.app.forgetmenot.domain.Context
 import forgetmenot.composeapp.generated.resources.Res
 import forgetmenot.composeapp.generated.resources.delete
@@ -22,7 +21,6 @@ import org.jetbrains.compose.resources.painterResource
 fun ContextView(
     context: Context,
     onSelect: (Context) -> Unit,
-    onAddItem: (Context) -> Unit,
     onDelete: (Context) -> Unit
 ) {
     Row(
@@ -37,12 +35,12 @@ fun ContextView(
             fontSize = MaterialTheme.typography.bodyMedium.fontSize
         )
        Row {
-            IconButton(onClick = { onAddItem(context) }) {
+            /*IconButton(onClick = { onAddItem(context) }) {
                 Icon(
                     painter = painterResource(Res.drawable.add),
                     contentDescription = "Add Item Icon"
                 )
-            }
+            }*/
             IconButton(onClick = { onDelete(context) }) {
                 Icon(
                     painter = painterResource(Res.drawable.delete),
